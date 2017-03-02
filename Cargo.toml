@@ -1,0 +1,6 @@
+[package]
+name = "plume-installer"
+version = "0.1.0"
+authors = ["renshan"]
+
+[dependencies]
